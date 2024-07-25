@@ -67,6 +67,13 @@ body{
     font-weight: 700;
     text-decoration: none;
 
+    transition:0.444s;
+
+
+}
+.links a:hover{
+    width:85%;
+    background-color:hsl(75, 67%, 65%);
 
 }
 .links a:last-child{
